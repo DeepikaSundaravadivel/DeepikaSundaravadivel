@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Deepika 
 
- 🎓Master's student in Computer Applications (MCA) at Karpagam College of Engineering.
+ 🎓Pursuing Master's in Computer Applications (MCA) 
  💻Passionate about **Software Development**, **Machine Learning**, and **Full-Stack Development**
  🚀Always eager to learn, build, and solve real-world problems through code.
 
